@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmsFundamentals/StartAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/E00ToyShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/E01SumSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/E02BonusScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/E03Time15Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/E06WorldSwimmingRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L01ExcellentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L02GreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L03EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L04PasswordGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L05NumberFrom100To200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L06SpeedInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/L07AreaOfFigures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E01Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E02SummerOutfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E03NewHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E04FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E05Journey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L01DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L04PersonalTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L06NumberInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L08CinemaTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L10InvalidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCoding/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/ConcatenateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/GreetingByName5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/HelloSoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/InchesToCentimeters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/Numbers1to10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/P01USDToBGN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/P02RadiansToDegrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/P03DepositCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/P04VacationBooksList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/PetChop8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/ProjectsCreation7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/VariableType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstStepInCodingLab/YardGreening9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/L07SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/L08NumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/L09LeftAndRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function/MathFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function/simbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACiRZcy6iJmMxtEPOoacLAz1Eg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.L09LeftAndRightSum">
+    <configuration name="E05Journey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatementsAdvancedLab.E05Journey" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConditionalStatementsAdvancedLab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L07SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop.L07SumNumbers" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L08NumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop.L08NumberSequence" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L09LeftAndRightSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop.L09LeftAndRightSum" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Function.simbols" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.L09LeftAndRightSum" />
+        <item itemvalue="Application.L08NumberSequence" />
+        <item itemvalue="Application.L07SumNumbers" />
+        <item itemvalue="Application.simbols" />
+        <item itemvalue="Application.E05Journey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="" />
+      <created>1654519963498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654519963498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FirstStepInCodingLab/P03DepositCalculator.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FirstStepInCodingLab/P03DepositCalculator.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/L03EvenOrOdd.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/L03EvenOrOdd.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E02BonusScore.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E02BonusScore.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E02BonusScore.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E02BonusScore.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E06WorldSwimmingRecord.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E06WorldSwimmingRecord.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E06WorldSwimmingRecord.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatements/E06WorldSwimmingRecord.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L04PersonalTitles.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L04PersonalTitles.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L04PersonalTitles.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L04PersonalTitles.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/L10InvalidNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E03NewHouse.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E03NewHouse.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E03NewHouse.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E04FishingBoat.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E04FishingBoat.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E04FishingBoat.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConditionalStatementsAdvancedLab/E04FishingBoat.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/L07SumNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/L09LeftAndRightSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/L09LeftAndRightSum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

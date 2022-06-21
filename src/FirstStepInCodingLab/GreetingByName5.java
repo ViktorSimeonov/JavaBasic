@@ -1,0 +1,12 @@
+package FirstStepInCodingLab;
+
+import java.util.Scanner;
+
+public class GreetingByName5 {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String name = scanner.nextLine();
+        System.out.println("Hello, " + name +"!");
+//        "Hello, <name>!"
+    }
+}
