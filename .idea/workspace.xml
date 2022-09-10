@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change beforePath="$PROJECT_DIR$/src/ForLoop/L10OddEvenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForLoop/L10OddEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam26June2022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L01_StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L02_Passed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L03_PassedOrFailed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L04_BackIn30Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L05_MonthPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L06_ForeignLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L07_TheaterPromotions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L08_DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L09_SumOfOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L10_MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L11_MultiplicationTable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L12_EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E01_Ages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E02_Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E03_Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E04_PrintAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E05_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestAndTask/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/L01ReadBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/L02PassWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoop/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForLoop/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Function/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +64,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.L10OddEvenSum">
-    <configuration name="L07SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop.L07SumNumbers" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FundamentalsBasicSyntax" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.E05_Login">
+    <configuration name="E01_Ages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E01_Ages" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForLoop.*" />
+          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L08NumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop.L08NumberSequence" />
+    <configuration name="E02_Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E02_Division" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForLoop.*" />
+          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L09LeftAndRightSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop.L09LeftAndRightSum" />
+    <configuration name="E03_Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E03_Vacation" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForLoop.*" />
+          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L10OddEvenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop.L10OddEvenSum" />
+    <configuration name="E04_PrintAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E04_PrintAndSum" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForLoop.*" />
+          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="simbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function.simbols" />
+    <configuration name="E05_Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E05_Login" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Function.*" />
+          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L10OddEvenSum" />
-        <item itemvalue="Application.L09LeftAndRightSum" />
-        <item itemvalue="Application.L08NumberSequence" />
-        <item itemvalue="Application.L07SumNumbers" />
-        <item itemvalue="Application.simbols" />
+        <item itemvalue="Application.E05_Login" />
+        <item itemvalue="Application.E04_PrintAndSum" />
+        <item itemvalue="Application.E03_Vacation" />
+        <item itemvalue="Application.E02_Division" />
+        <item itemvalue="Application.E01_Ages" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +161,35 @@
       <option name="project" value="LOCAL" />
       <updated>1655824900158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java basic">
+      <created>1655826067734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655826067734</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java basic">
+      <created>1655828119077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655828119077</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java basic">
+      <created>1655905258566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655905258566</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java basic">
+      <created>1656494064815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656494064815</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,11 +345,86 @@
           <line>14</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/L10OddEvenSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/E01NumbersEndingIn7.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/E02HalfSumElement.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/E02HalfSumElement.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/E04CleverLily.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WhileLoop/L05AccountBalance.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WhileLoop/L01ReadBook.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ForLoop/test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntax/L09_SumOfOddNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntax/L10_MultiplicationTable.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntax/L12_EvenNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E01_Ages.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E02_Division.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E05_Login.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaFundamentals$E02_Division.ic" NAME="E02_Division Coverage Results" MODIFIED="1662830112386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FundamentalsBasicSyntaxExercise.*</FILTER>
+    </SUITE>
   </component>
 </project>
