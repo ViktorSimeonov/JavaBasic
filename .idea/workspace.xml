@@ -2,30 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/Exam26June2022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L01_StudentInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L02_Passed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L03_PassedOrFailed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L04_BackIn30Minutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L05_MonthPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L06_ForeignLanguages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L07_TheaterPromotions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L08_DivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L09_SumOfOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L10_MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L11_MultiplicationTable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntax/L12_EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E01_Ages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E02_Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E03_Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E04_PrintAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E05_Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestAndTask/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/L01ReadBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/L02PassWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L00_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L01_DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsDataTypesAndVariables/L10_SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E01_IntegerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E02_SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E03_Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E04_SumOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E05_PrintPartASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E06_TriplesOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E07_WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E08_BeerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E09_SpiceMustFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E10_PokeMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestAndTask/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/split.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoop/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForLoop/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Function/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Function/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +62,13 @@
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E05_Login">
-    <configuration name="E01_Ages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E01_Ages" />
+  <component name="RunManager" selected="Application.split">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAndTask.ArrayTest" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
+          <option name="PATTERN" value="TestAndTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E02_Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E02_Division" />
+    <configuration name="E10_PokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsExerciseDataTypesAndVariables.E10_PokeMon" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
+          <option name="PATTERN" value="FundamentalsExerciseDataTypesAndVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E03_Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E03_Vacation" />
+    <configuration name="L00_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L00_Array" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
+          <option name="PATTERN" value="FundamentalsArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E04_PrintAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E04_PrintAndSum" />
+    <configuration name="L01_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L01_DayOfWeek" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
+          <option name="PATTERN" value="FundamentalsArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +115,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E05_Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsBasicSyntaxExercise.E05_Login" />
+    <configuration name="split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="split" />
       <module name="JavaFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FundamentalsBasicSyntaxExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E05_Login" />
-        <item itemvalue="Application.E04_PrintAndSum" />
-        <item itemvalue="Application.E03_Vacation" />
-        <item itemvalue="Application.E02_Division" />
-        <item itemvalue="Application.E01_Ages" />
+        <item itemvalue="Application.split" />
+        <item itemvalue="Application.L01_DayOfWeek" />
+        <item itemvalue="Application.L00_Array" />
+        <item itemvalue="Application.ArrayTest" />
+        <item itemvalue="Application.E10_PokeMon" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +176,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656494064815</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java basic">
+      <created>1662834164024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662834164024</updated>
+    </task>
+    <task id="LOCAL-00007" summary="java basic">
+      <created>1662877747848</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662877747848</updated>
+    </task>
+    <task id="LOCAL-00008" summary="java basic">
+      <created>1663046612184</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663046612184</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,6 +422,111 @@
           <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E05_Login.java</url>
           <line>9</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E07_VendingMachine.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E07_VendingMachine.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E06_StrongNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E08_TriangleOfNumbers.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E09_Orders.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E10_PadwanEquipment.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E10_PadwanEquipment.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsBasicSyntaxExercise/E10_PadwanEquipment.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsDataTypesAndVariables/L10_SpecialNumbers.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E08_BeerKegs.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E09_SpiceMustFlow.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E06_TriplesOfLatinLetters.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E02_SumDigits.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E04_SumOfChars.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E05_PrintPartASCII.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestAndTask/ArrayTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L00_Array.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L00_Array.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L01_DayOfWeek.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/split.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
