@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L00_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L01_DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsDataTypesAndVariables/L10_SpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E01_IntegerOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E02_SumDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E03_Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E04_SumOfChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E05_PrintPartASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E06_TriplesOfLatinLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E07_WaterOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E08_BeerKegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E09_SpiceMustFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsExerciseDataTypesAndVariables/E10_PokeMon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestAndTask/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L02_PrintNumbersInReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L04_ReverseAnArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SplitStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/StringJoin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,51 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Programing",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.split">
-    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAndTask.ArrayTest" />
-      <module name="JavaFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestAndTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E10_PokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsExerciseDataTypesAndVariables.E10_PokeMon" />
-      <module name="JavaFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FundamentalsExerciseDataTypesAndVariables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L00_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L00_Array" />
+  <component name="RunManager" selected="Application.L04_ReverseAnArrayOfStrings">
+    <configuration name="L02_PrintNumbersInReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L02_PrintNumbersInReverseOrder" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +65,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L01_DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L01_DayOfWeek" />
+    <configuration name="L04_ReverseAnArrayOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L04_ReverseAnArrayOfStrings" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SplitStream" />
+      <module name="JavaFundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop.StringJoin" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WhileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L04_ReverseAnArrayOfStrings" />
+        <item itemvalue="Application.StringJoin" />
+        <item itemvalue="Application.L02_PrintNumbersInReverseOrder" />
+        <item itemvalue="Application.SplitStream" />
         <item itemvalue="Application.split" />
-        <item itemvalue="Application.L01_DayOfWeek" />
-        <item itemvalue="Application.L00_Array" />
-        <item itemvalue="Application.ArrayTest" />
-        <item itemvalue="Application.E10_PokeMon" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663046612184</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="java basic">
+      <created>1663935275461</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663935275462</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -527,6 +517,31 @@
           <url>file://$PROJECT_DIR$/src/split.java</url>
           <line>6</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SplitStream.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L02_PrintNumbersInReverseOrder.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WhileLoop/StringJoin.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WhileLoop/StringJoin.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L04_ReverseAnArrayOfStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
