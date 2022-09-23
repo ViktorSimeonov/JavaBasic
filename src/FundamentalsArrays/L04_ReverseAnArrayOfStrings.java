@@ -14,6 +14,7 @@ public class L04_ReverseAnArrayOfStrings {
             arr[arr.length -1- i]=temp;
 
         }
-               System.out.println(String.join(" ",arr));
+        String print = String.join(" ",arr);
+        System.out.println(print);
     }
 }
