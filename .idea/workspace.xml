@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L02_PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L04_ReverseAnArrayOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplitStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/StringJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L03_SumEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L05_EvenAndOddSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L06_EqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L07_CondenseArrayToNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,9 +52,9 @@
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L04_ReverseAnArrayOfStrings">
-    <configuration name="L02_PrintNumbersInReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L02_PrintNumbersInReverseOrder" />
+  <component name="RunManager" selected="Application.L07_CondenseArrayToNumber">
+    <configuration name="L03_SumEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L03_SumEvenNumbers" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -78,19 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SplitStream" />
-      <module name="JavaFundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop.StringJoin" />
+    <configuration name="L05_EvenAndOddSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L05_EvenAndOddSubtraction" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WhileLoop.*" />
+          <option name="PATTERN" value="FundamentalsArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,20 +92,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="split" />
+    <configuration name="L06_EqualArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L06_EqualArrays" />
       <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L07_CondenseArrayToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L07_CondenseArrayToNumber" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L07_CondenseArrayToNumber" />
+        <item itemvalue="Application.L06_EqualArrays" />
+        <item itemvalue="Application.L05_EvenAndOddSubtraction" />
+        <item itemvalue="Application.L03_SumEvenNumbers" />
         <item itemvalue="Application.L04_ReverseAnArrayOfStrings" />
-        <item itemvalue="Application.StringJoin" />
-        <item itemvalue="Application.L02_PrintNumbersInReverseOrder" />
-        <item itemvalue="Application.SplitStream" />
-        <item itemvalue="Application.split" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663935275462</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="java basic">
+      <created>1663949994259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663949994259</updated>
+    </task>
+    <task id="LOCAL-00011" summary="java basic">
+      <created>1663950037603</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663950037603</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,6 +570,26 @@
           <line>10</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L03_SumEvenNumbers.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L05_EvenAndOddSubtraction.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L06_EqualArrays.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArrays/L07_CondenseArrayToNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -553,6 +600,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaFundamentals$E02_Division.ic" NAME="E02_Division Coverage Results" MODIFIED="1662830112386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>FundamentalsBasicSyntaxExercise.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaFundamentals$L05_EvenAndOddSubtraction.ic" NAME="L05_EvenAndOddSubtraction Coverage Results" MODIFIED="1664106002465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FundamentalsArrays.*</FILTER>
     </SUITE>
   </component>
 </project>
