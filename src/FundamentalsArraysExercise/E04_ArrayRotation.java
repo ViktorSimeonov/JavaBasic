@@ -8,7 +8,7 @@ public class E04_ArrayRotation {
         String[] arr = scanner.nextLine().split(" ");
         int rotation = Integer.parseInt(scanner.nextLine());
         String firstIndex = "";
-        rotation = rotation % arr.length;
+        //rotation = rotation % arr.length;
         for (int i = 0 ; i < rotation; i++) {
             firstIndex = arr[0];
             for (int j = 0; j < arr.length-1; j++) {
