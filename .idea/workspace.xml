@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L03_SumEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L05_EvenAndOddSubtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L06_EqualArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentalsArrays/L07_CondenseArrayToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/ArraysSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E01_SumAdjacentEqualNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E01_secondTrySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E03_Merging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E03_MergingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E04_ListManipulationBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E05_ManipulationAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/E2_GausTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListLab/TestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -27,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2ACiRZcy6iJmMxtEPOoacLAz1Eg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,30 +46,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Programing",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programing&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ListLab" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L07_CondenseArrayToNumber">
-    <configuration name="L03_SumEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L03_SumEvenNumbers" />
+  <component name="RunManager" selected="Application.E05_ManipulationAdvanced">
+    <configuration name="E04_ListManipulationBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.E04_ListManipulationBasics" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L04_ReverseAnArrayOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L04_ReverseAnArrayOfStrings" />
+    <configuration name="E05_ManipulationAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.E05_ManipulationAdvanced" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L05_EvenAndOddSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L05_EvenAndOddSubtraction" />
+    <configuration name="E2_GausTrick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.E2_GausTrick" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L06_EqualArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L06_EqualArrays" />
+    <configuration name="ListLab.E03_Merging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.E03_Merging" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L07_CondenseArrayToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentalsArrays.L07_CondenseArrayToNumber" />
+    <configuration name="TestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListLab.TestTest" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentalsArrays.*" />
+          <option name="PATTERN" value="ListLab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L07_CondenseArrayToNumber" />
-        <item itemvalue="Application.L06_EqualArrays" />
-        <item itemvalue="Application.L05_EvenAndOddSubtraction" />
-        <item itemvalue="Application.L03_SumEvenNumbers" />
-        <item itemvalue="Application.L04_ReverseAnArrayOfStrings" />
+        <item itemvalue="Application.E05_ManipulationAdvanced" />
+        <item itemvalue="Application.TestTest" />
+        <item itemvalue="Application.E04_ListManipulationBasics" />
+        <item itemvalue="Application.ListLab.E03_Merging" />
+        <item itemvalue="Application.ListLab.E2_GausTrick" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +228,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663950037603</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="java basic">
+      <created>1664109195913</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664109195914</updated>
+    </task>
+    <task id="LOCAL-00013" summary="java basic">
+      <created>1664170433226</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664170433226</updated>
+    </task>
+    <task id="LOCAL-00014" summary="java basic">
+      <created>1665317374672</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665317374672</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -590,6 +625,203 @@
           <line>10</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E01_Train.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E02_CommonElements.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E02_CommonElements.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E02_CommonElements.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E03_ZifZagArrays.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E04_ArrayRotation.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E04_ArrayRotation.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E04_ArrayRotation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/test.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E05_TopIntegers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E06_EqualSums.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E07_MaxSequenceOfEqualElements.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E07_MaxSequenceOfEqualElements.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsArraysExercise/E08_MagicSum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E01_SignOfIntegerNumbers.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E02_Grades.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E03_PrintingTriangle.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MethodsExercise/E02_VowelsCount.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MethodsExercise/E04_PasswordValidator.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MethodsExercise/E04_PasswordValidator.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/TestArray.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/TestArray.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/ArraysSplit.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E01_SumAdjacentEqualNumbers.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E01_SumAdjacentEqualNumbers.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/Test1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/Test1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E01_secondTrySum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E2_GausTrick.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E03_Merging.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E03_Merging.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E04_ListManipulationBasics.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E04_ListManipulationBasics.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ListLab/E05_ManipulationAdvanced.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E02_Grades.java</url>
+          <line>13</line>
+          <properties class="FundamentalsMethods.E02_Grades" method="grades">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E03_PrintingTriangle.java</url>
+          <line>12</line>
+          <properties class="FundamentalsMethods.E03_PrintingTriangle" method="upperPartOfPyramid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MethodsExercise/E02_VowelsCount.java</url>
+          <line>12</line>
+          <properties class="MethodsExercise.E02_VowelsCount" method="vowelsCount">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -598,6 +830,9 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaFundamentals$TestArray.ic" NAME="TestArray Coverage Results" MODIFIED="1665318868340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ArraysLab.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaFundamentals$E02_Division.ic" NAME="E02_Division Coverage Results" MODIFIED="1662830112386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>FundamentalsBasicSyntaxExercise.*</FILTER>
     </SUITE>
