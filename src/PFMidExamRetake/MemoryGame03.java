@@ -12,16 +12,12 @@ public class MemoryGame03 {
         String[] input = scanner.nextLine().split(" ");
         int numbersOfMove = 0;
         while (!input[0].equals("end")) {
-            if (sequenceOfElements.size() == 0) {
-                System.out.printf("You have won in %d turns!", numbersOfMove);
-                break;
-            }
             int firstIndex = Integer.parseInt(input[0]);
             int secondIndex = Integer.parseInt(input[1]);
             numbersOfMove++;
             if (firstIndex == secondIndex ||
-                    firstIndex < 0 || firstIndex > sequenceOfElements.size()
-                    || secondIndex < 0 || secondIndex > sequenceOfElements.size()) {
+                    firstIndex < 0 || firstIndex >= sequenceOfElements.size()
+                    || secondIndex < 0 || secondIndex >= sequenceOfElements.size()) {
                 // add numbers "-{number of moves until now}a"
                 String toAdd = "-"+numbersOfMove + "a";
                 sequenceOfElements.add((sequenceOfElements.size() / 2), toAdd);
@@ -46,6 +42,10 @@ public class MemoryGame03 {
 
             }
 
+            if (sequenceOfElements.size() == 0) {
+                System.out.printf("You have won in %d turns!", numbersOfMove);
+                break;
+            }
             input = scanner.nextLine().split(" ");
         }
         if (input[0].equals("end")) {

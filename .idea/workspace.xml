@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/ListLab/E06_RemoveNegativesAndReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListLab/E07_ListOfProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListLab/E1_Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListLab/E2_ChangeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExamRetake/ComputerStore01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExamRetake/MemoryGame03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExamRetake/TheLift02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PFMidExamRetake/MemoryGame03_fromFriend.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PFMidExamRetake/MemoryGame03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PFMidExamRetake/MemoryGame03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,20 @@
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemoryGame03">
+  <component name="RunManager" selected="Application.PFMidExamRetake.MemoryGame03">
+    <configuration name="ComputerStore01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PFMidExamRetake.ComputerStore01" />
+      <module name="JavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PFMidExamRetake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E1_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListLab.E1_Train" />
       <module name="JavaFundamentals" />
@@ -89,7 +97,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemoryGame03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PFMidExamRetake.MemoryGame03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PFMidExamRetake.MemoryGame03" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
@@ -102,20 +110,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PFMidExamRetake.ComputerStore01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PFMidExamRetake.ComputerStore01" />
-      <module name="JavaFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PFMidExamRetake.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PFMidExamRetake.TheLift02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TheLift02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PFMidExamRetake.TheLift02" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
@@ -130,7 +125,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MemoryGame03" />
+        <item itemvalue="Application.PFMidExamRetake.MemoryGame03" />
         <item itemvalue="Application.PFMidExamRetake.TheLift02" />
         <item itemvalue="Application.PFMidExamRetake.ComputerStore01" />
         <item itemvalue="Application.E2_ChangeList" />
@@ -252,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666176939526</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="java basic">
+      <created>1666271004234</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666271004234</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
