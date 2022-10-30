@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/MidExam23102022/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam23102022/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam23102022/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam23102022/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExam05072020/ArrayModifier02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExam05072020/Numbers03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExam05072020/SoftUniReception01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExamOur/GuineaPig01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PFMidExamRetake12August2020/MemoryGame03_fromFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MachineSoftware/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MachineSoftware/MachineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L01RandomizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L02SumBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L03BigFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L04Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L05Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L06StudentsVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/TestObjectsAndClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PFMidExamRetake/ComputerStore01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PFMidExamRetake12August2020/ComputerStore01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PFMidExamRetake/MemoryGame03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PFMidExamRetake12August2020/MemoryGame03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PFMidExamRetake/TheLift02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PFMidExamRetake12August2020/TheLift02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +61,17 @@
       <recent name="ListLab" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ObjectsAndClasses" />
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem3">
-    <configuration name="GuineaPig01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PFMidExamOur.GuineaPig01" />
+  <component name="RunManager" selected="Application.L06StudentsVersion2">
+    <configuration name="L02SumBigNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L02SumBigNumbers" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PFMidExamOur.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PFMidExam05072020.Numbers03" />
+    <configuration name="L03BigFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L03BigFactorial" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PFMidExam05072020.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam23102022.Problem1" />
+    <configuration name="L04Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L04Songs" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam23102022.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam23102022.Problem2" />
+    <configuration name="L05Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L05Students" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam23102022.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam23102022.Problem3" />
+    <configuration name="L06StudentsVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L06StudentsVersion2" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam23102022.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem3" />
-        <item itemvalue="Application.Problem2" />
-        <item itemvalue="Application.Problem1" />
-        <item itemvalue="Application.GuineaPig01" />
-        <item itemvalue="Application.Numbers03" />
+        <item itemvalue="Application.L06StudentsVersion2" />
+        <item itemvalue="Application.L05Students" />
+        <item itemvalue="Application.L04Songs" />
+        <item itemvalue="Application.L03BigFactorial" />
+        <item itemvalue="Application.L02SumBigNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666295982963</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="java basic">
+      <created>1666687244348</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666687244348</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -913,6 +917,46 @@
           <line>38</line>
           <option name="timeStamp" value="211" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L01RandomizeWords.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L04Songs.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L04Songs.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L04Songs.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L05Students.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L05Students.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L06StudentsVersion2.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/L06StudentsVersion2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E02_Grades.java</url>
           <line>13</line>
@@ -943,6 +987,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="190" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="214" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
