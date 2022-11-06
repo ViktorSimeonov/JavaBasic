@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/MachineSoftware/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MachineSoftware/MachineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L01RandomizeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L02SumBigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L03BigFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L04Songs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L05Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/L06StudentsVersion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClasses/TestObjectsAndClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApi/L01CountRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApi/L02WordSynonyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApi/L03OddOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApi/L04WordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApi/LTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApi/testDecimalFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E01CountCharsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E02AMinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E03LegendaryFarming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsAndClassesExercise/Е01CompanyRoster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Programing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JAVA/JavaFundamentals&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -65,13 +66,13 @@
       <recent name="FundamentalsBasicSyntax" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L06StudentsVersion2">
-    <configuration name="L02SumBigNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L02SumBigNumbers" />
+  <component name="RunManager" selected="Application.E03LegendaryFarming">
+    <configuration name="E01CountCharsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaStreamApiExercise.E01CountCharsInString" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
+          <option name="PATTERN" value="MapsLambdaStreamApiExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L03BigFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L03BigFactorial" />
+    <configuration name="E02AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaStreamApiExercise.E02AMinerTask" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
+          <option name="PATTERN" value="MapsLambdaStreamApiExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L04Songs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L04Songs" />
+    <configuration name="E03LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaStreamApiExercise.E03LegendaryFarming" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
+          <option name="PATTERN" value="MapsLambdaStreamApiExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L05Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L05Students" />
+    <configuration name="L03OddOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaStreamApi.L03OddOccurrences" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
+          <option name="PATTERN" value="MapsLambdaStreamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L06StudentsVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.L06StudentsVersion2" />
+    <configuration name="L04WordFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapsLambdaStreamApi.L04WordFilter" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.*" />
+          <option name="PATTERN" value="MapsLambdaStreamApi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L06StudentsVersion2" />
-        <item itemvalue="Application.L05Students" />
-        <item itemvalue="Application.L04Songs" />
-        <item itemvalue="Application.L03BigFactorial" />
-        <item itemvalue="Application.L02SumBigNumbers" />
+        <item itemvalue="Application.E03LegendaryFarming" />
+        <item itemvalue="Application.E02AMinerTask" />
+        <item itemvalue="Application.E01CountCharsInString" />
+        <item itemvalue="Application.L04WordFilter" />
+        <item itemvalue="Application.L03OddOccurrences" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666687244348</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="java basic">
+      <created>1667107244325</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667107244325</updated>
+    </task>
+    <task id="LOCAL-00020" summary="java basic">
+      <created>1667246061126</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667246061126</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -957,6 +972,96 @@
           <line>50</line>
           <option name="timeStamp" value="231" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/L01CountRealNumbers.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/L01CountRealNumbers.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/L02WordSynonyms.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/LTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/LTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/LTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/LTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/L03OddOccurrences.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApi/L04WordFilter.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E01CountCharsInString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E01CountCharsInString.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E02AMinerTask.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E02AMinerTask.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E02AMinerTask.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E02AMinerTask.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E02AMinerTask.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E03LegendaryFarming.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapsLambdaStreamApiExercise/E03LegendaryFarming.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E02_Grades.java</url>
           <line>13</line>
@@ -991,6 +1096,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="214" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="288" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
