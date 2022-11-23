@@ -8,6 +8,7 @@ public class StringTest {
 
         String str = new String(new char[] {'s', 't', 'r'});
         char[] charArr = str.toCharArray();
+        char ch = str.charAt(2);
         //String myString = new String("Petre");
         String greet = "Hello, ";
         String name = "John!";
