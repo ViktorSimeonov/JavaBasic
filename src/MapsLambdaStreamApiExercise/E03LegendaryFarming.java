@@ -53,6 +53,7 @@ public class E03LegendaryFarming {
                 //if the Key doesn't exist
                 if (!items.containsKey(material)) {
                     items.put(material, new ArrayList<>());
+                   // System.out.println(items.get(material));
                     items.get(material).add(quantity);
                     ResultOfGreaterThen250 result = isGraterThen250(items.get(material), material);
                     if (result.isObtained()) {
