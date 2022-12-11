@@ -1,12 +1,10 @@
-package ITTalentsHomeWork2;
+package ITTalentsLesson4;
 
 import java.util.Scanner;
 
-public class Task11FullTriangle {
+public class Task9 {
     public static void main(String[] args) {
-
-       /* Задача 11: Въведете число N чрез конзолата и изкарайте като
-        резултат следния триъгълник с височина N:*/
+//         * Task9. Modify task 8 to print a triangle that is hollow and has only a frame of stars.
         Scanner scanner = new Scanner(System.in);
         System.out.println("моля, въведете  цяло число");
         int n = scanner.nextInt();
@@ -26,4 +24,5 @@ public class Task11FullTriangle {
 
 
     }
+
 }
