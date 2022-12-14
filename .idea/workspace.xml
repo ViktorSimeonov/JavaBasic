@@ -2,54 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d36908-cd27-44bd-8c12-01b298526ada" name="Changes" comment="java Fundamentals">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/E13HeroesOfCodeLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalExam/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalExam/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalExam/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalExam/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork1/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task10PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task11EmptyTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task11FullTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task11Pyramids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task12NaturalNumbersException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsLesson2/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsLesson2/DemoBitwiseOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsLesson2/DemoScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsLesson2/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ITTalentsLesson2/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/AdditionalHomeWork/JavaScriptX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/BitsHowManyAreEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task5/Task5A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task5/Task5B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task5/Task5C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/TestBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/TaskBitsIfItIsOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork3/Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectsAndClassesExercise/Е01CompanyRoster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/Task25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ITTalentsHomeWork2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ITTalentsHomeWork2/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,18 +102,20 @@
       <recent name="C:\JAVA\JavaFundamentals\src\LearnJava" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ITTalentsHomeWork2" />
-      <recent name="ObjectsAndClasses" />
-      <recent name="FundamentalsBasicSyntax" />
+      <recent name="ITTalentsHomeWork3" />
+      <recent name="ITTalentsHomeWork2.Figures.Task6" />
+      <recent name="ITTalentsHomeWork2.Figures.Task5" />
+      <recent name="ITTalentsHomeWork2.Figures.Task4" />
+      <recent name="ITTalentsHomeWork2.Figures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task15">
-    <configuration name="Task10PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork2.Task10PrimeNumbers" />
+  <component name="RunManager" selected="Application.Task8">
+    <configuration name="ITTalentsHomeWork3.Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork3.Task4" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ITTalentsHomeWork2.*" />
+          <option name="PATTERN" value="ITTalentsHomeWork3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork2.Task13" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork3.Task5" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ITTalentsHomeWork2.*" />
+          <option name="PATTERN" value="ITTalentsHomeWork3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork2.Task14" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork3.Task6" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ITTalentsHomeWork2.*" />
+          <option name="PATTERN" value="ITTalentsHomeWork3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork2.Task15" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork3.Task7" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ITTalentsHomeWork2.*" />
+          <option name="PATTERN" value="ITTalentsHomeWork3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +163,11 @@
       </method>
     </configuration>
     <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork2.Task8" />
+      <option name="MAIN_CLASS_NAME" value="ITTalentsHomeWork3.Task8" />
       <module name="JavaFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ITTalentsHomeWork2.*" />
+          <option name="PATTERN" value="ITTalentsHomeWork3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task15" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task10PrimeNumbers" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.Task14" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.ITTalentsHomeWork3.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669799399691</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="java Fundamentals">
+      <created>1670422232483</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670422232483</updated>
+    </task>
+    <task id="LOCAL-00027" summary="java Fundamentals">
+      <created>1670747134565</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1670747134565</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1481,13 +1497,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/test.java</url>
-          <line>6</line>
+          <line>14</line>
           <option name="timeStamp" value="469" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/test.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="470" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task12NaturalNumbersException.java</url>
@@ -1495,14 +1506,139 @@
           <option name="timeStamp" value="474" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/test.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="475" />
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task15.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="479" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task15.java</url>
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task17Square.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task18.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task19.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsLesson4/Task4.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsLesson4/Task5.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsLesson4/Task5.java</url>
           <line>20</line>
-          <option name="timeStamp" value="476" />
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task21.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task22.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task24.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Task25.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern5.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern6.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/Pattern8.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureH.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task4/FigureG.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/TaskBitsIfItIsOne.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task5/Task5A.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task5/Task5C.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/Figures/Task6/Task6I.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="542" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task3.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task5.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task6.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork3/Task8.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="551" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FundamentalsMethods/E02_Grades.java</url>
@@ -1531,6 +1667,33 @@
           </properties>
           <option name="timeStamp" value="117" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/TestBits.java</url>
+          <line>18</line>
+          <properties class="ITTalentsHomeWork2.NumberPattern.TestBits.countSetBits" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/NumberPattern/TestBits.java</url>
+          <line>7</line>
+          <properties class="ITTalentsHomeWork2.NumberPattern.TestBits.countSetBits" method="countSetBits">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ITTalentsHomeWork2/TaskBitsIfItIsOne.java</url>
+          <line>12</line>
+          <properties class="ITTalentsHomeWork2.Number" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="531" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="190" />
@@ -1552,6 +1715,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaFundamentals$Task1.ic" NAME="Task1 Coverage Results" MODIFIED="1670159672833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>FinalExam.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaFundamentals$Task4.ic" NAME="Task4 Coverage Results" MODIFIED="1671010760864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ITTalentsHomeWork3.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JavaFundamentals$TestArray.ic" NAME="TestArray Coverage Results" MODIFIED="1665318868340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>ArraysLab.*</FILTER>

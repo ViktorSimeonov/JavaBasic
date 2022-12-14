@@ -19,11 +19,15 @@ public class Task25 {
             System.out.print("n=");
             n = scanner.nextInt();
         }
-        int result=1;
-        while (n>0){
+        float result=1f;
+        do {
             result*=n;
             n--;
-        }
+        }while ((n>0));
+      /*  while (n>0){
+            result*=n;
+            n--;
+        }*/
         System.out.println(result);
     }
 }
