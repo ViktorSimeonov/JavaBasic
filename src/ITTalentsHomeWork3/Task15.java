@@ -12,7 +12,7 @@ public class Task15 {
     Изход: 5.1; 6.34; 7.13*/
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double[] array = {7.13, 0.2, 4.9, 5.1, 6.34, 1.12};
+        double[] array = {-7.13, 0.2, 4.9, 5.1, 6.34, 1.12};
 
         //first num
         double max1 = Double.MIN_VALUE;
