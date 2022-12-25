@@ -1,6 +1,5 @@
-package ITTalentsHomework4;
+package ITTalentsHomework5String;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Task1 {

@@ -1,4 +1,4 @@
-package ITTalentsHomework4;
+package ITTalentsHomework5String;
 
 import java.util.Scanner;
 
