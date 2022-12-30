@@ -1,6 +1,6 @@
 package ITTalentsLesson9Recursion;
 
-public class LifeHacks {
+public class LifeHacksPrint {
     public static void main(String[] args) {
         // to print from 5 to 1
         print(5);
