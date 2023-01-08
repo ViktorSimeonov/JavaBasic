@@ -3,7 +3,7 @@ package ITTalentsLesson9Recursion;
 public class LifeHacksPrint {
     public static void main(String[] args) {
         // to print from 5 to 1
-        print(5);
+        print(9);
     }
     static void print(int x){
         if(x==0){

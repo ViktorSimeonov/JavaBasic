@@ -13,10 +13,12 @@ public class Task1Rec {
         }
         print(start,end);*/
         printRec(start,end);
+        print(start,end);
 
     }
     static void printRec(int n, int m){
-        if(n==m+1){
+        if(n==m){
+            System.out.println(n);
             return;
         }
         System.out.println(n);
